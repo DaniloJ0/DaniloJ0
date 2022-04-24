@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin badge">
 </a>
 
-I'm a System Engineer student, I really enjoy learning languages like Javascrip and Python, I wish to improve my skills in web development and data science and and soon learn about cloud service.
+
+I'm a System Engineer student, I really enjoy learning languages like Javascrip and Python, I wish to improve my skills in web development and data science and and soon learn about cloud services.
+
 <img src="https://github-readme-stats.vercel.app/api?username=daniloj0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" align="right"/> 
 
 <div align="center">
