@@ -9,7 +9,7 @@
 </a>
 
 
-I'm a System Engineer student, I really enjoy learning languages like Javascript and Python, I wish to improve my skills in web development and data science and soon learn about cloud services.
+I'm a System Engineer, I really enjoy learning languages like C#, Javascript and Python, I wish to improve my skills in web development and data science and soon learn about cloud services.
 
 <img src="https://github-readme-stats.vercel.app/api?username=daniloj0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" align="right"/> 
 
@@ -41,8 +41,8 @@ I'm a System Engineer student, I really enjoy learning languages like Javascript
 <img src="https://img.shields.io/badge/flutter%20-%23119EFF.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
  
 
-- 🌱 I’m currently learning NodeJs and ML algorithms...
+- 🌱 I’m currently learning .NET and ML algorithms...
 - 💬 Ask me about anything.
 
-- 📫 How to reach me: dadsjose05@hotmail.com/ rangeljd@uninorte.edu.co
+- 📫 How to reach me: dadsjose05@hotmail.com
 
